@@ -1,0 +1,5 @@
+                        Hazelcast                      Oracle SQL
+20.000 put/insert      0,490 seconds                10,510 seconds    
+20.000 get/select      0,340 seconds                 0,446 seconds
+100.000 put/insert     1,881 seconds                32,080 seconds
+100.000 get/select     1,603 seconds                 2,745 seconds
